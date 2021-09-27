@@ -1,5 +1,4 @@
-@@ -1 +1,68 @@
-# Twitter-real-time-data-analysis-using-spark-streaming
+# Twitter real time data Analysis using Spark_Streaming and Kafka
 
 ## Project Description
 For This Big-data Project, we took Twitter API for Real-Time Data Processing from https://developer.twitter.com/en/docs/tutorials/stream-tweets-in-real-time.
